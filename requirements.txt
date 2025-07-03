@@ -1,0 +1,32 @@
+# Análisis de Datos - Producción Agroindustrial de Ica
+# Dependencias para análisis exploratorio y modelado predictivo
+
+# Manipulación y análisis de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+kaleido>=0.2.1
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Análisis geoespacial (opcional)
+geopandas>=0.13.0
+folium>=0.14.0
+
+# Notebooks y herramientas interactivas
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+notebook>=6.5.0
+
+# Exportación de datos
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Utilidades adicionales
+pathlib2>=2.3.7
